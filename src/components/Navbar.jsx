@@ -52,7 +52,7 @@ const Navbar = ( {darkMode, setdarkMode}) => {
     setNav(!nav);
   }
   return (
-    <div className='flex justify-between items-center w-full flex-wrap h-20 fixed  
+    <div className='flex justify-between items-center w-full flex-wrap h-20 fixed z-50 
      px-4 py-6 bg-white  text-black dark:bg-gray-900 dark:text-white shadow-md dark:shadow-lg'>
       
         <div className='text-4xl sm:text-5xl font-bold font-signature  hover:scale-110 duration-300'><a href="#">Sujeet</a></div>

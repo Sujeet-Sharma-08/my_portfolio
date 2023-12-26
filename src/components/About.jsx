@@ -9,8 +9,8 @@ const About = () => {
             </div> */}
               
               <div >
-                <p className='text-center text-3xl font-bold  hover:scale-105 duration-300 '>About Me</p>
-                <p className='text-center text-xl mt-2'>My introduction</p>
+                <p className='text-3xl font-bold'>About Me</p>
+                <p className='text-xl mt-2'>My introduction</p>
                   <p className='text-xl mt-10'>
                   Hey there,👋 I'm Sujeet Sharma a 21-Years-old <span className='text-blue-400'>computer science and engineering <br /></span> 
                       undergrad who is passionate about Software Development, <br />
