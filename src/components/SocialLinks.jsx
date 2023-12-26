@@ -14,7 +14,7 @@ const SocialLinks = () => {
                 LinkedIn <AiOutlineLinkedin size={30}/>
                 </>
             ),
-            href:'https://www.linkedin.com/in/sujeet-kumar-sharma8081/',
+            href:`https://www.linkedin.com/in/sujeet-kumar-sharma8081/`,
             style:'rounded-tr-md'
         },
 
@@ -47,7 +47,7 @@ const SocialLinks = () => {
                 Resume  <RiContactsLine size={30}/>
                 </>
             ),
-            href:'../../public/sujeet-Resume.pdf',
+            href:`/sujeet-Resume.pdf`,
             download:true,
             style:'rounded-br-md'
         },

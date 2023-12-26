@@ -21,11 +21,17 @@ const Home = () => {
                     with MERN Stack tecnology
                 </p>
 
-                <div className=' w-[110px] h-[44px] bg-gradient-to-r from-cyan-500 to-blue-500 rounded-sm  '>
+                {/* <div className=' w-[110px] h-[44px] bg-gradient-to-r from-cyan-500 to-blue-500 rounded-sm  '>
                     <Link to='portfolio'  smooth duration={500} className='group flex py-2 pl-2 '> portfolio <span
                      className='py-1 group-hover:rotate-90 duration-200'>< FaAngleRight /></span></Link>
-                </div>
+                </div> */}
+
+                
+                <a href="/sujeet-Resume.pdf" download={true} className='w-[110px] h-[44px] flex items-center group
+                bg-gradient-to-r from-cyan-500 to-blue-500 rounded-sm'><button className='flex ml-5'>Resume <span
+                className='py-1 group-hover:rotate-90 duration-200'>< FaAngleRight /></span></button></a>
             </div>
+
 
             {/* right image */}
             <div className='w-full max-w-md mt-10 '>
