@@ -14,7 +14,7 @@ const data =[
         id:2,
         pic:PORTFOLIO,
         text:`My Personal portfolio website using React and Tailwind with clean UI.`,
-        url:``
+        url:`https://my-portfolio-nine-bice-49.vercel.app/`
         
     }
 ];
