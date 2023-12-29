@@ -47,7 +47,7 @@ const SocialLinks = () => {
                 Resume  <RiContactsLine size={30}/>
                 </>
             ),
-            href:`/sujeet-Resume.pdf`,
+            href:`/sujeet-resume.pdf`,
             download:true,
             style:'rounded-br-md'
         },

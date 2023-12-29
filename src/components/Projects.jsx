@@ -8,12 +8,14 @@ const data =[
         id:1,
         pic:KEVIN,
         text:`Kevin Portfolio using Html, Css and Javascript.`,
-        url:`https://kevin-portfolio-8d78qym8e-sujeet-kumar-sharmas-projects.vercel.app`
+        url:`https://kevin-portfolio-chi.vercel.app`
     },
     {
         id:2,
         pic:PORTFOLIO,
-        text:`My Personal portfolio website using React and Tailwind with clean UI.`
+        text:`My Personal portfolio website using React and Tailwind with clean UI.`,
+        url:``
+        
     }
 ];
 
