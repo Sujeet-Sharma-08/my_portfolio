@@ -9,7 +9,7 @@ const About = () => {
             </div> */}
               
               <div >
-                <p className=' mt-10 text-3xl font-bold'>About Me</p>
+                <p className='mt-20 text-3xl font-bold'>About Me</p>
                 <p className='text-xl mt-2'>My introduction</p>
                   <p className='text-xl mt-10'>
                   Hey there,👋 I'm Sujeet Sharma a 21-Years-old <span className='text-blue-400'>computer science and engineering <br /></span> 
