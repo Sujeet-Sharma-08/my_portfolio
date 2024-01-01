@@ -4,7 +4,6 @@ import { RxCross2 } from "react-icons/rx";
 import { Link } from 'react-scroll';
 import { LuSun } from "react-icons/lu";
 import { FiMoon } from "react-icons/fi";
-// import { NavLink } from "react-router-dom";
 
 const links =[
     {
@@ -16,12 +15,7 @@ const links =[
      id:2,
      tab:'about'
      },
-
-    // {
-    // id:3,
-    // tab:'portfolio'
-    //  },
-
+    
      {
       id:3,
       tab:'qualifications'
@@ -44,7 +38,7 @@ const links =[
               
    ];
 
-const Navbar = ( {darkMode, setdarkMode}) => {
+ const Navbar = ( {darkMode, setdarkMode}) => {
   
   const[nav, setNav]= useState(false);
 
