@@ -52,8 +52,7 @@ const SocialLinks = () => {
             style:'rounded-br-md'
         },
     ];
-           
-        
+            
   return (
     <div className=' hidden lg:flex flex-col top-[35%] left-0 fixed '>
         <ul>
@@ -65,9 +64,7 @@ const SocialLinks = () => {
                         className='flex justify-between items-center w-full text-black'>{link.child} </a></li>  
                     )
                 })
-            }
-            
-            
+            } 
         </ul>
     </div>
   )
