@@ -2,7 +2,6 @@ import React from 'react'
 import KEVIN from '../assets/portfolio image.png'
 import PORTFOLIO from '../assets/React-portfolio .png'
 
-
 const data =[
     {
         id:1,
@@ -14,11 +13,9 @@ const data =[
         id:2,
         pic:PORTFOLIO,
         text:`My Personal portfolio website using React and Tailwind with clean UI.`,
-        url:`https://my-portfolio-nine-bice-49.vercel.app/`
-        
+        url:`https://my-portfolio-nine-bice-49.vercel.app/`   
     }
 ];
-
 
 const Projects = () => {
   return(
@@ -42,26 +39,16 @@ const Projects = () => {
                                     <a href={d.url}>
                                         <button className='py-2 px-4 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-md'>check it</button>
                                     </a>
-                                </div>
-                                
-                                
-
+                                </div>   
                             </div>
-                            
-
                         </div>
                     )
                 })
             }
 
         </div>
-
-    
-
-  
     </div>
   )
 };
-   
 
 export default Projects
