@@ -9,7 +9,7 @@ import React1 from '../assets/react.png'
 import Tailwind from '../assets/tailwind.png'
 import Express from '../assets/express.png'
 import Cpp from '../assets/c++ image.png'
-import mongodb from '../assets/mongodb.png'
+import Mongodb from '../assets/mongodb.png'
 import Vercel from '../assets/vercel.jpg'
 
 const technologies =[
@@ -76,12 +76,12 @@ const technologies =[
 
     {
         id:11,
-        skill:mongodb,
+        skill:Mongodb,
         title:'MONGODB'    
     },
 
     {
-        id:11,
+        id:12,
         skill:Vercel,
         title:'VERCEL'
     }
