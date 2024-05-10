@@ -1,11 +1,13 @@
 import React from 'react'
 import KEVIN from '../assets/portfolio image.png'
 import PORTFOLIO from '../assets/React-portfolio .png'
+import EDTECH from '../assets/screenshot of ed-tech.png'
+import WEATHER from '../assets/Screenshot weather.png'
 
 const data =[
     {
         id:1,
-        pic:ED-TECH PLATFORM,
+        pic:EDTECH,
         text:`Ed-tech platform for empowering the future of tech-students.`,
         url:`https://ed-tech-ten.vercel.app/`
     },
@@ -24,7 +26,7 @@ const data =[
   
      {
         id:4,
-        pic:WEATHER-APPLICATION,
+        pic:WEATHER,
         text:`To know your weather condition, anytime and anywhere.`,
         url:`https://weather-app-six-mu-47.vercel.app/`
     },
