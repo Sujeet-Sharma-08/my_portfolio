@@ -5,16 +5,29 @@ import PORTFOLIO from '../assets/React-portfolio .png'
 const data =[
     {
         id:1,
-        pic:KEVIN,
-        text:`Kevin Portfolio using Html, Css and Javascript.`,
-        url:`https://kevin-portfolio-chi.vercel.app`
+        pic:ED-TECH PLATFORM,
+        text:`Ed-tech platform for empowering the future of tech-students.`,
+        url:`https://ed-tech-ten.vercel.app/`
     },
-    {
+      {
         id:2,
         pic:PORTFOLIO,
         text:`My Personal portfolio website using React and Tailwind with clean UI.`,
         url:`https://my-portfolio-nine-bice-49.vercel.app/`   
-    }
+    },
+     {
+        id:3,
+        pic:KEVIN,
+        text:`Kevin Portfolio using Html, Css and Javascript.`,
+        url:`https://kevin-portfolio-chi.vercel.app`
+    },
+  
+     {
+        id:4,
+        pic:WEATHER-APPLICATION,
+        text:`To know your weather condition, anytime and anywhere.`,
+        url:`https://weather-app-six-mu-47.vercel.app/`
+    },
 ];
 
 const Projects = () => {
