@@ -18,7 +18,7 @@ const Home = () => {
                     with MERN Stack tecnology
                 </p>
 
-                <a href="/sujeet.pdf" download={true} className='w-[110px] h-[44px] flex items-center group
+                <a href="/sujeet-resume.pdf" download={true} className='w-[110px] h-[44px] flex items-center group
                 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-sm'><button className='flex ml-5'>Resume <span
                 className='py-1 group-hover:rotate-90 duration-200'>< FaAngleRight /></span></button></a>
             </div>
