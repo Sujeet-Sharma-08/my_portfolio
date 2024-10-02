@@ -92,7 +92,7 @@ const technologies =[
 const Skills = () => {
   return (
     <div id="skills" className=' w-screen h-full lg:h-screen  overflow-x-hidden   '>
-        <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center h-full '>
+        <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center h-full mt-16 '>
             <p className='text-4xl font-bold '>Skills</p>
             <p className='py-6 text-xl '>My Technical Skills</p>
 
