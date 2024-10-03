@@ -20,6 +20,14 @@ const data = [
         text: `It's an event management platform, where you can directly connect with the managing director and get your event successfully done.`,
         url: `https://onetouchagency.com/`
     },
+
+    {
+        id: 3,
+        projectName:'Chit-Chat App',
+        pic: onetouch,
+        text: `It's a chatting app, enable users to login, signup and sending messages to each other.`,
+        url: `https://voluble-crumble-4b8416.netlify.app/`
+    },
     // Add more items here if necessary
 ];
 
