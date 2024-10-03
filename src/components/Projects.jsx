@@ -4,6 +4,7 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import onetouch from '../assets/one touch agency.png';
 import sja from '../assets/sja care.png';
+import chitchat from '../assets/chit chat.png'
 
 const data = [
     {
@@ -24,7 +25,7 @@ const data = [
     {
         id: 3,
         projectName:'Chit-Chat App',
-        pic: onetouch,
+        pic: chitchat,
         text: `It's a chatting app, enable users to login, signup and sending messages to each other.`,
         url: `https://voluble-crumble-4b8416.netlify.app/`
     },
