@@ -2,8 +2,8 @@
 
 ## Hire me , I am passionate software developer.
 
-### features -:
-about, qualifications, projects, skills, contact
+### Implemented with mutiple features including -
+about section, qualifications section, projects section, skills section, contact section
 
 #### Deployed on verel
 
