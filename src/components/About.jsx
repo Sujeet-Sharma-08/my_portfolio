@@ -12,11 +12,14 @@ const About = () => {
                 <p className='mt-12 text-3xl font-bold'>About Me</p>
                 <p className='text-xl mt-2'>My introduction</p>
                   <p className='text-xl mt-10'>
-                  Hey there,👋 I'm Sujeet Sharma a 21-Years-old <span className='text-blue-400'>computer science and engineering <br /></span> 
-                      undergrad who is passionate about Software Development, <br />
-                      Right now - I'm looking for an opportunity where I can use my skills and can contribute in large projects.
-                      Currently, I'am  focusing on mastering <span className='text-blue-400'>Data Structures and Algorithms </span > using <span className='text-blue-400'>C++ </span>
-                      Language and deeping dive in the world of Full-Stack web development using <span className='text-blue-400'>MERN STACK. </span> 
+                  Hey there,👋 I'm Sujeet Sharma a 22-Years-old <span className='text-blue-400 italic font-semibold'>Computer science and engineering </span> undergrad <br />
+                      who is passionate about Software Development, <br />
+                      Currently working as a <span className='text-blue-400 italic font-semibold'>frontend developer Intern.</span> 
+                      <br />
+                      I am working on developing professional and visually engaging web solutions,leveraging my strong programming skills in <span className='text-blue-400 italic font-semibold'>C++ </span> and <span className='text-blue-400 italic font-semibold'>MERN Stack</span>.
+                      and I have completed some impactfull tech projects while also nurturing my passion for technology.
+                     And I'am  focusing on mastering <span className='text-blue-400 italic font-semibold'>Data Structures and Algorithms (DSA) </span > using <span className='text-blue-400 italic font-semibold'>C++ </span>
+                      And I am open to exciting opportunities in professional projects,research and connecting with industry professionals.
                   </p>
 
               </div>      

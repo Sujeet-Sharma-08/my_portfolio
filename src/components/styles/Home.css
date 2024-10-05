@@ -1,0 +1,7 @@
+.blinking-cursor {
+    font-weight: 100;
+    font-size: 2rem;
+    color: black;
+    animation: blink 1s step-end infinite;
+  }
+  
