@@ -9,6 +9,6 @@ about, qualifications, projects, skills, contact
 
 #### link -: https://my-portfolio-nine-bice-49.vercel.app/
 
-made with readct and tailwindCss
+#### made with React and TailwindCss
 
 
