@@ -46,7 +46,7 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col justify-center items-center h-full  px-4 md:flex-row ">
         {/* left text */}
         <div className="md:w-1/2 flex flex-col justify-center h-full mt-16">
-        <h1 className="text-3xl md:text-4xl font-bold mt-10 md:-mt-20">Hi👋 I'am Sujeet Sharma and I'm a</h1>
+        <h1 className="text-3xl md:text-4xl font-bold mt-10 md:-mt-20">Hi👋 I'm Sujeet Sharma and I'm a</h1>
           <h1 className="text-3xl md:text-5xl mb-5 md:mt-5  font-bold  text-blue-400">
             {currentRole}
             <span className="blinking-cursor">|</span> {/* Blinking cursor */}
