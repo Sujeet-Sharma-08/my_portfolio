@@ -14,7 +14,7 @@ const About = () => {
                   <p className='text-xl mt-10'>
                   Hey there,👋 I'm Sujeet Sharma a 22-Years-old <span className='text-blue-400 italic font-semibold'>Computer science and engineering </span> undergrad <br />
                       who is passionate about Software Development, <br />
-                      Currently working as a <span className='text-blue-400 italic font-semibold'>frontend developer Intern.</span> 
+                      Completed six months of Internship(Remote) as a <span className='text-blue-400 italic font-semibold'>frontend developer Intern.</span> 
                       <br />
                       I am working on developing professional and visually engaging web solutions,leveraging my strong programming skills in <span className='text-blue-400 italic font-semibold'>C++ </span> and <span className='text-blue-400 italic font-semibold'>MERN Stack</span>.
                       and I have completed some impactfull tech projects while also nurturing my passion for technology.
