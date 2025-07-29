@@ -12,6 +12,9 @@ import Cpp from '../assets/c++ image.png'
 import Mongodb from '../assets/mongodb.png'
 import Vercel from '../assets/vercel.jpg'
 
+import Java from '../assets/java.png'
+import SpringBoot from '../assets/spring boot.png'
+
 const technologies =[
 
     {
@@ -26,7 +29,7 @@ const technologies =[
     },
     {
         id:3,
-        skills:spring boot,
+        skills:SpringBoot,
         title: 'Spring Boot'   
     },
 
