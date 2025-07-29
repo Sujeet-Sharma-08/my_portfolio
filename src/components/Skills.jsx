@@ -19,69 +19,79 @@ const technologies =[
         skill:Cpp,
         title:'C++'
     },
+    {  
+        id:2,
+        skills:java,
+        title: 'Java'  
+    },
+    {
+        id:3,
+        skills:spring boot,
+        title: 'Spring Boot'   
+    },
 
     {
-        id:2,
+        id:4,
         skill:Html,
         title:'HTML'
     },
 
     {
-        id:3,
+        id:5,
         skill:Css,
         title:'CSS'
     },
 
     {
-        id:4,
+        id:5,
         skill:Tailwind,
         title:'TAILWIND CSS'  
     },
 
     {
-        id:5,
+        id:7,
         skill:Javascript,
         title:'JAVASCRIPT'
     },
 
     {
-        id:6,
+        id:8,
         skill:React1,
         title:'REACT'
     },
 
     {
-        id:7,
+        id:9,
         skill:Github,
         title:'GITHUB'    
     },
 
     {
-        id:8,
+        id:10,
         skill:Git,
         title:'GIT'
     },
 
     {
-        id:9,
+        id:11,
         skill:Node,
         title:'NODE'     
     },
 
     {
-        id:10,
+        id:12,
         skill:Express,
         title:'EXPRESS'    
     },
 
     {
-        id:11,
+        id:13,
         skill:Mongodb,
         title:'MONGODB'    
     },
 
     {
-        id:12,
+        id:14,
         skill:Vercel,
         title:'VERCEL'
     }
