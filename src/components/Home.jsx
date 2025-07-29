@@ -7,7 +7,7 @@ const Home = () => {
   const roles = [
     "Frontend Developer",
     "Backend Developer",
-    "Full Stack Developer",
+    "Java Full Stack Developer",
   ];
   const [currentRole, setCurrentRole] = useState("");
   const [roleIndex, setRoleIndex] = useState(0); // Track the current role
